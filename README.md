@@ -1,4 +1,5 @@
-# Welcome to your NumEconCPH repository
+# Welcome to your NumEconCPH repositoryThe development in productivity and hourly wages in Denmark across industries and years
+
 
 We have provided you with the following repository that contains the required structure for this course. **You should not change any folders in the root directory**.
 
