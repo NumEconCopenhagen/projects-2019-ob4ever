@@ -4,4 +4,4 @@ We have analysised the development of the productivity and the hourly wages acro
 
 The project is excecuted by connecting to statistics of Denmark by a API. 
 
-To produce our results - one just run the notebook chronologicaly.
+To produce our results - run the ipybn.file chronologicaly.
