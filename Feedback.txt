@@ -1,7 +1,7 @@
 Data project groups    -    Data project links:
 
 By qjc617:
-Faetter BR                    https://github.com/NumEconCopenhagen/projects-2019-faetter-br/issues/1
+Faetter BR                      https://github.com/NumEconCopenhagen/projects-2019-faetter-br/issues/1
 Tobias_Jacob_Sandru	        https://github.com/NumEconCopenhagen/projects-2019-tobias_jacob_sandru/issues/4
 
 By mfx527:
@@ -16,5 +16,5 @@ CR	                        https://github.com/NumEconCopenhagen/projects-2019-cr
 JL	                        https://github.com/NumEconCopenhagen/projects-2019-jl/issues/8
 
 By mfx527:
-Høj på Lerner-indekset	      https://github.com/NumEconCopenhagen/projects-2019-hoj-pa-lerner-indekset/issues/11
+Høj på Lerner-indekset	        https://github.com/NumEconCopenhagen/projects-2019-hoj-pa-lerner-indekset/issues/11
 TM and MP	                  https://github.com/NumEconCopenhagen/projects-2019-tm-and-mp/issues/5
