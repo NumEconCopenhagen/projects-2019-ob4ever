@@ -1,4 +1,4 @@
-**Data project groups    -    Data project links:**
+Data project groups    -    Data project links:
 
 By qjc617:
 Faetter BR                  https://github.com/NumEconCopenhagen/projects-2019-faetter-br/issues/1
@@ -8,7 +8,8 @@ By mfx527:
 MCB	                        https://github.com/NumEconCopenhagen/projects-2019-mcb/issues/2
 SafeSpaces	                https://github.com/NumEconCopenhagen/projects-2019-safespaces/issues/3
 
-**Model project groups	 -    Model project links:**
+
+Model project groups	 -    Model project links:
 
 By qjc617:
 CR	                        https://github.com/NumEconCopenhagen/projects-2019-cr/issues/7
